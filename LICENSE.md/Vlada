@@ -1,7 +1,7 @@
 {
     "room":                     "BorutoNaruto",
     "author":                   "Evelex",
-    "icon":                     "http://i.imgur.com/a/c59aP.png",
+    "icon":                     "http://i.imgur.com/FqQLk3f.png",
     "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
         "allowAutorespond":     true,
@@ -27,7 +27,7 @@
         "user":                 "#8B92A3"
     },
     "images": {
-        "background":           "http://i.imgur.com/a/Yu9m6.png",
+        "background":           "http://i.imgur.com/fZsVj6D.jpg",
         "playback":             null,
         "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
         "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
